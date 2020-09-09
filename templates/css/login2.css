@@ -1,0 +1,12 @@
+.login {
+  display: flex;
+  float: right;
+  align-items: center;
+  height: 100%;
+  margin-right: 10em;
+}
+.login form input {
+  line-height: 3em;
+}
+
+/*# sourceMappingURL=login2.css.map */
